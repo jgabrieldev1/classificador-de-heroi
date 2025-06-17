@@ -1,5 +1,5 @@
 # Passo 1: definir as variaveis
-nome_heroi = "Gabi gol"  # pode ser substituido
+nome_heroi = "Gabi gol"            # pode ser substituido
 xp_heroi = 9852             # valor que pode ser alterado
 
 # Passo 2: Estrutura python para classificar o nível
