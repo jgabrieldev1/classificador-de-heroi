@@ -1,6 +1,6 @@
 # Passo 1: definir as variaveis
 nome_heroi = "Gabi gol"  # pode ser substituido
-xp_heroi = 7001             # valor que pode ser alterado
+xp_heroi = 9852             # valor que pode ser alterado
 
 # Passo 2: Estrutura python para classificar o nível
 if xp_heroi < 1000:
@@ -21,4 +21,4 @@ else:
     nivel = "Radiante"  # XP >= 10001
 
 # Passo 3: saida formatada
-print(f"O Herói {nome_heroi} está no nívelS {nivel}")
+print(f"O Herói {nome_heroi} está no nível {nivel}")
